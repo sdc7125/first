@@ -1,0 +1,58 @@
+body {
+    background-color: #e9eaed;
+}
+
+
+.wrap {
+    width: 100%;
+    height: 49px;
+    border-top: 4px solid #46b3fc;
+    border-bottom: 1px solid #606569;
+    background-color: #1b2327;
+}
+
+.wrap header {
+    width: 1345px;
+    height: 49px;
+    margin: 0 auto;
+    display: flex;
+}
+
+.wrap header .header_left {
+    color: white;
+    margin-left: 139px;
+}
+
+.wrap header .header_left h3 {
+    line-height: 49px;
+    font-size: 20px;
+}
+
+.wrap header .header_con {
+    margin-left: 36px;
+}
+
+.wrap header .header_con li {
+    margin-left: 36px;
+    line-height: 49px;
+    display: inline-block;
+}
+
+.wrap header .header_con li .href {
+    color: white;
+    font-size: 14px;
+}
+
+.wrap header .header_con li .href:hover {
+    color: #0e92a6;
+}
+
+.wrap .header_right {
+    margin-left: 195px;
+    line-height: 49px;
+}
+
+.wrap .header_right .icon-sousuo {
+    color: white;
+    font-size: 17px;
+}
